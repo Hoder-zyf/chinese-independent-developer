@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 16 号添加
 
+#### liliBestCoder - [Github](https://github.com/liliBestCoder)
+* :white_check_mark: [ghost-proxifier-pro](https://ghostproxifier.com)：专为 Windows 打造的免费进程级透明代理引擎，拖拽进程快捷方式即可完成注入，支持进程树自动递归注入 - [查看仓库](https://github.com/liliBestCoder/ghost-proxifier-pro)
+
+#### arcsin1 - [Github](https://github.com/arcsin1)
+* :white_check_mark: [oh-my-ppt](https://www.ohmyppt.cc/)：描述你的需求（演示、课程或故事），AI 为你生成简洁美观的 HTML 幻灯片，本地优先、离线可用 - [查看仓库](https://github.com/arcsin1/oh-my-ppt)
+
 #### XuZeyu(武汉) - [Github](https://github.com/xuzeyu91)
 * :white_check_mark: [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director)：BigBanana AI Director是一个工业级一站式 AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。 它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
 * :white_check_mark: [AntSK](https://github.com/shuyu-labs/AntSK)：一个基于.Net 9、AntBlazor、Semantic Kernel和Kernel Memory构建的AI知识库/代理，支持本地离线AI大模型运行。无需联网即可离线运行。支持Aspire用于监控应用数据。
